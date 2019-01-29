@@ -4,7 +4,7 @@
 
 @section('content')
     <h1>about us</h1>
-    <p>give me your money or get killed lmao xd rofl lol
+    <p>Lorum ipsum</p>
 
 @endsection
 
